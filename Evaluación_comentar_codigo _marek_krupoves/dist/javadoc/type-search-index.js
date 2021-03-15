@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"evaluación_comentar_codigo._marek_krupoves","l":"EntradaBlog_MK"}];updateSearchResults();
